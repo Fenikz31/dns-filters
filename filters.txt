@@ -3,5 +3,5 @@
 # $dnsrewrite=NOERROR;TXT;_acme-challenge.homelan.lan
 # ||_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;LhCKrAeK_PmSfJfx2dQ2aEIfVmEnsuLOFC1eC-w83lM
 $dnsrewrite=NOERROR;CNAME;_acme-challenge.homelan.lan
-|_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;hello
+_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;hello
 # LhCKrAeK_PmSfJfx2dQ2aEIfVmEnsuLOFC1eC-w83lM
