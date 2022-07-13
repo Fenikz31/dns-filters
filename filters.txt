@@ -1,1 +1,1 @@
-|_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;nPAIw4Lj8pihA7N4pnpHH5_qunav7y98WKg3zLrNnvc
+|_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;LhCKrAeK_PmSfJfx2dQ2aEIfVmEnsuLOFC1eC-w83lM
