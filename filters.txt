@@ -1,3 +1,7 @@
-||_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;CNAME;homelan.lan
-$dnsrewrite=NOERROR;TXT;_acme-challenge.homelan.lan
-||_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;LhCKrAeK_PmSfJfx2dQ2aEIfVmEnsuLOFC1eC-w83lM
+# _acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;LhCKrAeK_PmSfJfx2dQ2aEIfVmEnsuLOFC1eC-w83lM
+# ||_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;CNAME;homelan.lan
+# $dnsrewrite=NOERROR;TXT;_acme-challenge.homelan.lan
+# ||_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;LhCKrAeK_PmSfJfx2dQ2aEIfVmEnsuLOFC1eC-w83lM
+$dnsrewrite=NOERROR;A;192.168.0.116
+||_acme-challenge.homelan.lan^$dnsrewrite=NOERROR;TXT;hello
+# LhCKrAeK_PmSfJfx2dQ2aEIfVmEnsuLOFC1eC-w83lM
